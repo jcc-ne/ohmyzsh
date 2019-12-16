@@ -53,7 +53,6 @@
       # =========================[ Line #1 ]=========================
       status                  # exit code of the last command
       command_execution_time  # duration of the last command
-      host
       background_jobs         # presence of background jobs
       direnv                  # direnv status (https://direnv.net/)
       virtualenv              # python virtual environment (https://docs.python.org/3/library/venv.html)
@@ -76,7 +75,7 @@
       # aws_eb_env            # aws elastic beanstalk environment (https://aws.amazon.com/elasticbeanstalk/)
       # azure                 # azure account name (https://docs.microsoft.com/en-us/cli/azure)
       # gcloud                # google cloud acccount and project (https://cloud.google.com/)
-      #context                 # user@hostname
+      context                 # user@hostname
       nordvpn                 # nordvpn connection status, linux only (https://nordvpn.com/)
       ranger                  # ranger shell (https://github.com/ranger/ranger)
       #vim_shell               # vim shell indicator (:sh)
