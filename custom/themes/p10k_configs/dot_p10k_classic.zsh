@@ -72,6 +72,7 @@
       #fvm                     # flutter version management (https://github.com/leoafarias/fvm)
       kubecontext             # current kubernetes context (https://kubernetes.io/)
       #terraform               # terraform workspace (https://www.terraform.io)
+      docker_machine
       aws                     # aws profile (https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
       # aws_eb_env            # aws elastic beanstalk environment (https://aws.amazon.com/elasticbeanstalk/)
       # azure                 # azure account name (https://docs.microsoft.com/en-us/cli/azure)
