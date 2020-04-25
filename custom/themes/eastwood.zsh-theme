@@ -1,0 +1,1 @@
+../../themes/eastwood.zsh-theme
