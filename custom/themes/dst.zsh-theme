@@ -1,0 +1,1 @@
+../../themes/dst.zsh-theme
