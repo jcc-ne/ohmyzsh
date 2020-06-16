@@ -44,6 +44,7 @@
       newline
       docker_machine
       kubecontext             # current kubernetes context (https://kubernetes.io/)
+      pyenv
       prompt_char             # prompt symbol
   )
 
@@ -59,7 +60,7 @@
       direnv                  # direnv status (https://direnv.net/)
       # virtualenv              # python virtual environment (https://docs.python.org/3/library/venv.html)
       # anaconda                # conda environment (https://conda.io/)
-      pyenv                   # python environment (https://github.com/pyenv/pyenv)
+      # pyenv                   # python environment (https://github.com/pyenv/pyenv)
       goenv                   # go environment (https://github.com/syndbg/goenv)
       nodenv                  # node.js version from nodenv (https://github.com/nodenv/nodenv)
       nvm                     # node.js version from nvm (https://github.com/nvm-sh/nvm)
